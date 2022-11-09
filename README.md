@@ -2,7 +2,7 @@
 
 ## Context
 * Event «Bits n Bolts - Das Robotival»
-* Location: Zurich
+* Location: Zurich – [Zentralwäscherei](https://zentralwaescherei.space/)
 * Date: 04.03.2023 & 05.03.2023 
 * Duration: Lightning talk 10 - 20 min (depending on your preference)
 
